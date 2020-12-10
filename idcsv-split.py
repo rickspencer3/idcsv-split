@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 currentTable = 0
 currentFile = 0
 currentTable = 0
