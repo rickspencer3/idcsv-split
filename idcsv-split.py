@@ -4,7 +4,7 @@ currentTable = 0
 currentFile = 0
 currentTable = 0
 
-fin = open('taka-iot-data.csv')
+fin = open('my-file.csv')
 
 fout = open('part{}.csv'.format(currentFile), 'a')
 
